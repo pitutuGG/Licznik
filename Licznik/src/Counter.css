@@ -1,0 +1,18 @@
+.counter {
+    width: 300px;
+    margin: auto;
+    background: #F1F9F6;
+    border: #AFE1CE 1px solid;
+    margin-top: 100px;
+}
+
+.counter h1 {
+    text-align: center;
+}
+
+.counter button {
+    width: 130px;
+    height: 100px;
+    margin: 10px;
+    font-size: 40px;
+}
